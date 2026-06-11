@@ -1,4 +1,4 @@
-  🛰️ OrbitalTrack: Satellite Orbit Tracking System
+  🛰️ ORBITAL TRACK : Satellite Orbit Tracking System
 Advanced Orbital Prediction and Real-Time Satellite Monitoring Platform
 
 🌍 Project Overview
@@ -47,6 +47,21 @@ Space Debris Tracking
 Multi-Satellite Monitoring
 Integration with Live Space APIs
 Deep Learning Orbit Prediction Models
+
+🤖 AI + Astronomy
+1.🔭 Galaxy Classification using Computer Vision
+Galaxy images classify pannum
+Spiral, elliptical, irregular nu identify pannum
+2.🌠 Meteor Shower Forecasting Platform
+Meteor activity predict pannum
+Observation planning-ku use aagum
+3.🪐 Exoplanet Discovery using Machine Learning
+Telescope data-la hidden planets detect pannum
+4.🌌 Deep Space Object Recognition System
+Unknown celestial objects identify pannum
+5.🛰️ Satellite Health Monitoring using AI
+Satellite failures predict pannum
+Maintenance planning improve pannum
 
 🌟 Applications
 Space Research Organizations
