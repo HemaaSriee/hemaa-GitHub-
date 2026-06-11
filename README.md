@@ -72,3 +72,43 @@ Space Mission Planning
 Academic Research
 📜 Conclusion
 OrbitalTrack demonstrates how modern computational techniques and orbital mechanics can be combined to create an intelligent satellite monitoring system. The platform contributes to safer and more efficient utilization of Earth's orbital environment.
+
+☄️OrbitalTrack
+Real-time satellite orbit tracking and trajectory prediction system
+Python, NumPy, Plotly
+OrbitGuard
+
+Space debris monitoring and collision risk assessment platform
+Python, AI, Data Analytics
+
+AstroShield
+Near-Earth asteroid threat prediction and impact analysis
+Machine Learning, NASA Data
+CosmoScan
+
+AI-powered exoplanet discovery and habitability assessment
+Deep Learning, TensorFlow
+SolarWatch
+
+Solar flare forecasting and space weather monitoring system
+Python, LSTM, Data Science
+
+StarSight
+Galaxy classification using computer vision techniques
+CNN, OpenCV
+
+AstroNav
+Autonomous spacecraft navigation and route optimization
+AI, Optimization Algorithms
+
+MeteorVision
+Meteor shower forecasting and observation planning system
+Python, Predictive Analytics
+
+NebulaMind
+Deep space object detection and classification platform
+Computer Vision, AI
+
+Satellite Health Monitor
+AI-based satellite performance and failure prediction system
+Machine Learning, IoT
