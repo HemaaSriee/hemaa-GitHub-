@@ -112,3 +112,14 @@ Computer Vision, AI
 Satellite Health Monitor
 AI-based satellite performance and failure prediction system
 Machine Learning, IoT
+
+
+
+👩‍💻 About the Author
+
+Hemaa Sriee is an aspiring engineering student with interests in technology, artificial intelligence, space science, and innovative engineering solutions. Passionate about learning and building impactful projects.
+
+📫 Connect With Me
+
+- LinkedIn: Hemaa Sriee
+- Email: hemaasriee07@gmail.com
